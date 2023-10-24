@@ -1,6 +1,6 @@
 {
   "name": "@anatoliy-stepanchenko/geodistance-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is a simple npm package that allows you to calculate the approximate distance between two geographic coordinates (latitude and longitude) on Earth",
   "main": "index.js",
   "scripts": {
