@@ -17,7 +17,7 @@ yarn install geodistance-calculator
 Use the `calculateDistance` function to calculate the distance between two cities.
 
 ```javascript
-const calculateDistance = require("geodistance-calculator");
+const calculateDistance = require("@anatoliy-stepanchenko/geodistance-calculator");
 
 const londonCoords = { lat: 51.509865, lon: -0.118092 }; // London
 const kyivCoords = { lat: 50.4501, lon: 30.5234 }; // Kyiv
